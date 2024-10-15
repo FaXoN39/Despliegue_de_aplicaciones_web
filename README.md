@@ -26,4 +26,4 @@ Ejercicio5:
 La respuesta del servidor HTTP/1.1 302 Found indica que la solicitud se ha procesado correctamente, pero que el recurso solicitado se ha movido temporalmente a otra ubicación.
 
 Ejercicio6:
-
+No es posible realizar el ejercicio debido a la falta de credenciales para instalar el programa de WireShark.
